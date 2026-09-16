@@ -1,2 +1,2 @@
 # UHC
-Ultrahigh contrast code and examples
+Ultrahigh contrast MRI: code and examples
